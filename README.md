@@ -18,5 +18,12 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 mvn spring-boot:run
 ```
 
-#For local Swagger- 
-http://localhost:8080/swagger-ui.html#/employee-controller
+# Check Out the Swagger UI
+
+Open a browser and key in URL:
+
+```
+$ open http://localhost:8080/swagger/index.html
+```
+
+![swagger-ui](swagger-ui.png "Swagger UI")
