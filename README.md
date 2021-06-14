@@ -23,7 +23,7 @@ mvn spring-boot:run
 Open a browser and key in URL:
 
 ```
-$ open http://localhost:8080/swagger/index.html
+$ open http://localhost:8080/swagger-ui.html#/
 ```
 
-![swagger-ui](swagger.png "Swagger UI")
+![swagger-ui](C:\swagger.png "Swagger UI")
