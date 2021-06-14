@@ -1,5 +1,5 @@
 # JavaEmployeeService
 POC application
 
-#For local Swagger load
+#For local Swagger- 
 http://localhost:8080/swagger-ui.html#/employee-controller
