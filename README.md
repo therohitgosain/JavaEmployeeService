@@ -26,4 +26,4 @@ Open a browser and key in URL:
 $ open http://localhost:8080/swagger/index.html
 ```
 
-![swagger-ui](swagger-ui.png "Swagger UI")
+![swagger-ui](swagger.png "Swagger UI")
