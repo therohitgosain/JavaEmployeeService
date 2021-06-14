@@ -1,2 +1,0 @@
-# JavaEmployeeService
-POC application
